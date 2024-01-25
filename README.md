@@ -1,16 +1,35 @@
-### Hi there 👋
+# ¡Hola,mi nombre es Nicolas Soto!👋 
+
+## Quien soy?
+un apasionado programador Fullstack con enfoque en el diseño Front-end. Descubrí la programación mientras estudiaba otra carrera y, sin dudarlo, decidí dejar todo por esta nueva pasión que encendió mi creatividad y curiosidad. Me apasiona imaginar la infinidad de problemas que se pueden solucionar con un código bien diseñado, y estoy emocionado por seguir construyendo soluciones innovadoras. 💻✨
+
+## Que hago?
+En la actualidad, me dedico a la realización de proyectos que me permiten consolidarme y enfrentar nuevos desafíos, contribuyendo así a mi continua formación como programador. Mi fascinación radica en encontrar soluciones a través de mi propio código, explorando y aprendiendo con cada proyecto. 💻🚀
+
+## A donde me dirijo?
+Mi principal objetivo es impactar al mundo a través del código. Mi pasión va más allá de la simple demanda del mercado; disfruto explorando nuevas perspectivas y encontrando soluciones a problemas que a veces creemos resueltos. La programación no solo es mi camino profesional, sino también una forma de enriquecer mi visión del mundo. 💻✨
+
+## Que tecnologias uso?
+Mi paso por la UTN y mi graduacion en el Bootcamp de Henry me ha permitido adquirir el conocimiento de las siguientes tecnologias.
+- Javascript
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- Sequelize
+- SQL Server
+- GIT
+
+Claramente incluyendo HTML y CSS
 
 
-**nicosoto18/nicosoto18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contáctame!!
+Juntos, podemos emprender un proyecto extraordinario y transformar la vida de miles de usuarios. 💬🚀
+- [Por aca mi linkedin](https://www.linkedin.com/in/nicolas-soto-7272051b0/)
+- [Correo Electronico](mailto:nicosoto18@hotmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 
