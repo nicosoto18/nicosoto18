@@ -1,4 +1,4 @@
-# ¡Hola,mi nombre es Nicolas Soto!👋 
+# ¡Hola, mi nombre es Nicolas Soto!👋 
 
 ## Quien soy?
 Un apasionado programador Fullstack con enfoque en el diseño Front-end. Descubrí la programación mientras estudiaba otra carrera y, sin dudarlo, decidí dejar todo por esta nueva pasión que encendió mi creatividad y curiosidad. Me apasiona imaginar la infinidad de problemas que se pueden solucionar con un código bien diseñado, y estoy emocionado por seguir construyendo soluciones innovadoras. 💻✨
