@@ -38,7 +38,7 @@ En la actualidad, me dedico a la realización de proyectos que me permiten conso
     <a href = "https://portfolio-efpc.vercel.app/">
         <img src = "https://img.shields.io/badge/Portfolio%20-%20%23001F3F?style=flat-square&color=%23002F6C" height="28"/>
     </a>
-      <a href = "https://drive.google.com/drive/home">
+      <a href = "https://drive.google.com/file/d/1he3sRbKIWFTT5k6mbpbCY6Vetjx3h7Fq/view?usp=drive_link">
         <img src = "https://img.shields.io/badge/Ver%20Curriculum-%20%23696969?style=flat-square&color=%23696969" height="28"/>
     </a>
     
