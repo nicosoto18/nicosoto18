@@ -1,4 +1,4 @@
-# ¡Hola! soy Nicolas Soto!👋
+# ¡Hola! soy Nicolas Soto👋
 
 
 ## Quien soy
